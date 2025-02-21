@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Link} from 'react-router-dom'
 import "./firstpage.css"
 import {motion, AnimatePresence } from 'framer-motion';
-import useFirstPageHook from './customHooks/FirstPageHook';
+import useFirstPageHook from './customhooks/FirstPageHook';
 import {Tooltip} from 'react-tooltip';
 import 'react-tooltip/dist/react-tooltip.css';
 import Carousel from 'react-multi-carousel';
