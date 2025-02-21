@@ -35,6 +35,7 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "purgecss": "^7.0.2",
+    "purify-css": "^1.2.5",
     "vite": "^0.10.3"
   }
 }
